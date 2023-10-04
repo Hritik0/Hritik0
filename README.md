@@ -1,3 +1,5 @@
+![logo](https://github.com/Hritik0/Hritik0/blob/main/Modern%20Minimal%20Technology%20Background%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Hritik</h1>
 <h3 align="center">A passionate Flight Software Developer</h3>
 
